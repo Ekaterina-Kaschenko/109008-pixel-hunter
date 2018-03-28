@@ -1,7 +1,7 @@
 # Личный проект «Пиксель хантер» [![Build status][travis-image]][travis-url]
 
 * Студент: [Екатерина Кащенко](https://up.htmlacademy.ru/ecmascript/4/user/109008).
-* Наставник: `Неизвестно`.
+* Наставник: [Екатерина Кащенко](https://up.htmlacademy.ru/ecmascript/4/user/109008).
 
 ---
 
